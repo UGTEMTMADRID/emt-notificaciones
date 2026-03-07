@@ -1,16 +1,10 @@
 [
   {
     "id": "aviso-001",
-    "titulo": "🚧 Practicas 🚧",
-    "mensaje": "Prueba practica de las notificaciones",
+    "titulo": "🚧 Desvío Línea 35",
+    "mensaje": "Desviada por mercadillo de Orcasitas",
+    "detalle": "PRUEBAS",
     "tipo": "desvio",
-    "activa": true
-  },
-  {
-    "id": "aviso-002",
-    "titulo": "📢 Asamblea General",
-    "mensaje": "Jueves 12 de marzo a las 10:00 en Cerro de la Plata",
-    "tipo": "convocatoria",
     "activa": true
   }
 ]
