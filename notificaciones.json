@@ -1,0 +1,16 @@
+[
+  {
+    "id": "aviso-001",
+    "titulo": "🚧 Desvío Línea 35",
+    "mensaje": "Desviada por mercadillo de Orcasitas. Sábados 7:30 - 16:00",
+    "tipo": "desvio",
+    "activa": true
+  },
+  {
+    "id": "aviso-002",
+    "titulo": "📢 Asamblea General",
+    "mensaje": "Jueves 12 de marzo a las 10:00 en Cerro de la Plata",
+    "tipo": "convocatoria",
+    "activa": true
+  }
+]
