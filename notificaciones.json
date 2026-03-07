@@ -1,8 +1,8 @@
 [
   {
     "id": "aviso-001",
-    "titulo": "🚧 Desvío Línea 35",
-    "mensaje": "Desviada por mercadillo de Orcasitas. Sábados 7:30 - 16:00",
+    "titulo": "🚧 Practicas 🚧",
+    "mensaje": "Prueba practica de las notificaciones",
     "tipo": "desvio",
     "activa": true
   },
