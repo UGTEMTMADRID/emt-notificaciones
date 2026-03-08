@@ -2,7 +2,7 @@
     "preguntas": [
         {
             "pregunta": "¿Cómo me afilio a UGT?",
-            "respuesta": "Puedes afiliarte desde la app en el botón Afiliación.\nTambién puedes acudir a nuestra sede en Cerro de la Plata 4.\nO llamar al 674 311 628."
+            "respuesta": "Puedes afiliarte desde la app en el botón Afiliación.\nTambién puedes acudir a nuestra sede en Cerro de la Plata 4."
         },
         {
             "pregunta": "¿La app es gratuita?",
@@ -12,7 +12,8 @@
             "pregunta": "¿Cómo funciona el navegador de líneas?",
             "respuesta": "Entra en Movimiento, selecciona tu línea y pulsa Navegar.\nEl GPS te guiará por la ruta en tiempo real."
         }
+            
     ],
-    "privacidad": "Esta aplicación no recopila datos personales.\nToda la información se almacena localmente en tu dispositivo.\nNo se comparten datos con terceros.\nLa app solo accede a tu ubicación cuando usas el navegador.",
+    "privacidad": "Esta aplicación no recopila datos personales.\nToda la información se almacena localmente en tu dispositivo.\nNo se comparten datos con terceros.\nLa app solo accede a tu ubicación cuando usas el navegador.\nPuedes leer completamente la policita de \nPrivacidad en el siguiente enlace: https://www.ugtemtmadrid.com/pol%C3%ADtica-de-privacidad/app ",
     "normativa": "La app UGT EMT Madrid es de uso exclusivo para trabajadores de EMT Madrid.\nQueda prohibida su distribución fuera del ámbito laboral.\nEl contenido sindical es responsabilidad de la sección sindical UGT EMT Madrid."
 }
