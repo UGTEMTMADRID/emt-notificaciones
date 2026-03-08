@@ -1,18 +1,18 @@
 [
-  {
-    "id": "aviso-001",
-    "titulo": "Manifestacion",
-    "mensaje": "Desviada por mercadillo de Orcasitas",
-    "detalle": "PRUEBAS",
-    "tipo": "Manifestacion",
-    "activa": true
-  }
-  {
-    "id": "aviso-002",
-    "titulo": "Desvio",
-    "mensaje": "Desviada por mercadillo de Orcasitas",
-    "detalle": "PRUEBAS",
-    "tipo": "Desvio",
-    "activa": true
-  }
+    {
+        "id": "aviso-001",
+        "titulo": "Manifestacion",
+        "mensaje": "Desviada por mercadillo de Orcasitas",
+        "detalle": "PRUEBAS",
+        "tipo": "Manifestacion",
+        "activa": true
+    },
+    {
+        "id": "aviso-002",
+        "titulo": "Desvio",
+        "mensaje": "Desviada por mercadillo de Orcasitas",
+        "detalle": "PRUEBAS",
+        "tipo": "Desvio",
+        "activa": true
+    }
 ]
