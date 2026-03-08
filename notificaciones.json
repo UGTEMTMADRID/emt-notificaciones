@@ -1,10 +1,10 @@
 [
   {
     "id": "aviso-001",
-    "titulo": "🚧 Desvío Línea 35",
+    "titulo": "Manifestacion",
     "mensaje": "Desviada por mercadillo de Orcasitas",
     "detalle": "PRUEBAS",
-    "tipo": "desvio",
+    "tipo": "Manifestacion",
     "activa": true
   }
 ]
