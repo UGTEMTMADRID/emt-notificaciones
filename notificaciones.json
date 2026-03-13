@@ -1,10 +1,10 @@
 [
     {
         "id": "aviso-001",
-        "titulo": "Manifestacion",
-        "mensaje": "Desviada por mercadillo de Orcasitas",
-        "detalle": "PRUEBAS",
-        "tipo": "Manifestacion",
+        "titulo": "info",
+        "mensaje": "Reportar errores en las versiones /nEstamos a tiempo de solucionarlo",
+        "detalle": "INFO",
+        "tipo": "INFO",
         "activa": true
     },
     {
@@ -13,6 +13,6 @@
         "mensaje": "Desviada por mercadillo de Orcasitas",
         "detalle": "PRUEBAS",
         "tipo": "Desvio",
-        "activa": true
+        "activa": false
     }
 ]
