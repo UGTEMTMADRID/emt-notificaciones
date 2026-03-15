@@ -17,9 +17,9 @@
     },
     {
         "id": "aviso-003",
-        "titulo": "Prueba",
+        "titulo": "noticia",
         "mensaje": "Esto es una prueba ya que se esta conectando otras funciones",
-        "tipo": "WARNING",
+        "tipo": "noticia",
         "activa": true,
         "detalle": "Prueba visual"
     }
