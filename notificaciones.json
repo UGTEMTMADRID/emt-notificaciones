@@ -22,12 +22,5 @@
         "tipo": "noticia",
         "activa": true,
         "detalle": "Prueba visual"
-    },
-    {
-        "id": "aviso-004",
-        "titulo": "INFORMACION APP",
-        "mensaje": "ES UNA INFO VISUAL NO ALERTARSE SE ESTAN HACIENDO PRACTICAS",
-        "tipo": "info",
-        "activa": true
     }
 ]
