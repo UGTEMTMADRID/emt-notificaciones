@@ -6,13 +6,5 @@
         "detalle": "INFO",
         "tipo": "INFO",
         "activa": true
-    },
-    {
-        "id": "aviso-002",
-        "titulo": "Desvio",
-        "mensaje": "Desviada por mercadillo de Orcasitas",
-        "detalle": "PRUEBAS",
-        "tipo": "Desvio",
-        "activa": false
     }
 ]
