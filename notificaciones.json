@@ -14,13 +14,5 @@
         "detalle": "PRUEBAS",
         "tipo": "Desvio",
         "activa": false
-    },
-    {
-        "id": "aviso-003",
-        "titulo": "noticia",
-        "mensaje": "Esto es una prueba ya que se esta conectando otras funciones",
-        "tipo": "noticia",
-        "activa": true,
-        "detalle": "Prueba visual"
     }
 ]
