@@ -6,5 +6,13 @@
         "tipo": "info",
         "activa": true,
         "detalle": "La app se esta actualizando y es posible que se manden notificaciones innecesarias, os pedimos disculpas"
+    },
+    {
+        "id": "aviso-001",
+        "titulo": "CHAT GLOBAL",
+        "mensaje": "Es posible que al escribir o recibir un mensaje no se vean los mensajes.",
+        "tipo": "urgente",
+        "activa": true,
+        "detalle": "Se esta trabajando en la solucion del chat global, os pedimos disculpas ;)"
     }
 ]
