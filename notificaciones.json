@@ -1,13 +1,5 @@
 [
     {
-        "id": "aviso-001",
-        "titulo": "info",
-        "mensaje": "Reportar errores en las versiones /nEstamos a tiempo de solucionarlo",
-        "detalle": "INFO",
-        "tipo": "INFO",
-        "activa": true
-    },
-    {
         "id": "aviso-002",
         "titulo": "INFORMACION APP",
         "mensaje": "Actualizaciones programadas",
