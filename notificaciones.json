@@ -14,5 +14,13 @@
         "tipo": "urgente",
         "activa": true,
         "detalle": "Se esta trabajando en la solucion del chat global, os pedimos disculpas ;)"
+    },
+    {
+        "id": "aviso-003",
+        "titulo": "coeficientes reductores",
+        "mensaje": "de legazpi al congreso de los diputados",
+        "tipo": "manifestacion",
+        "activa": true,
+        "detalle": "concentracion"
     }
 ]
