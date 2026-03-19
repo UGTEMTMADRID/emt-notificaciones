@@ -9,8 +9,8 @@
     },
     {
         "id": "aviso-004",
-        "titulo": "Â¡Â¡ BIENVENIDOS !!",
-        "mensaje": "Â¡Â¡Bienvenidos a bordo!!",
+        "titulo": "¡¡ BIENVENIDOS !!",
+        "mensaje": "¡¡Bienvenidos a bordo!!",
         "tipo": "urgente",
         "activa": true,
         "detalle": "Bienvenidos a bordo, nuevos compaÃ±eros! Desde hoy, sois parte fundamental del motor de Madrid.",
