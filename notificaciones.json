@@ -4,7 +4,7 @@
         "titulo": "coeficientes reductores",
         "mensaje": "de legazpi al congreso de los diputados",
         "tipo": "manifestacion",
-        "activa": true,
+        "activa": false,
         "detalle": "concentracion"
     },
     {
