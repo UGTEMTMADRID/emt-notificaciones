@@ -3,18 +3,7 @@
     "categoria": "Vacaciones",
     "icono": "sun.max.fill",
     "color": "F59E0B",
-    "peticiones": [
-      {
-        "titulo": "Solicitud de vacaciones",
-        "descripcion": "Para solicitar días de vacaciones cumplimenta el impreso con al menos 15 días de antelación y entrégalo en el Departamento de Personal.",
-        "imagen_drive_id": ""
-      },
-      {
-        "titulo": "Cambio de turno de vacaciones",
-        "descripcion": "Si deseas modificar el período de vacaciones ya concedido, presenta una nueva solicitud indicando las fechas actuales y las nuevas fechas.",
-        "imagen_drive_id": ""
-      }
-    ]
+    "peticiones": []
   },
   {
     "categoria": "Permisos",
