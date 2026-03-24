@@ -9,23 +9,7 @@
     "categoria": "Permisos",
     "icono": "calendar.badge.checkmark",
     "color": "60A5FA",
-    "peticiones": [
-      {
-        "titulo": "Permiso por matrimonio",
-        "descripcion": "15 días naturales de permiso por matrimonio o registro de pareja de hecho. Solicitud con al menos 7 días de antelación.",
-        "imagen_drive_id": ""
-      },
-      {
-        "titulo": "Permiso por fallecimiento de familiar",
-        "descripcion": "Primer grado: 4 días laborables. Segundo grado: 2 días laborables.",
-        "imagen_drive_id": ""
-      },
-      {
-        "titulo": "Permiso por nacimiento",
-        "descripcion": "2 días laborables por nacimiento de hijo. Presentar el certificado de nacimiento en el plazo de 5 días.",
-        "imagen_drive_id": ""
-      }
-    ]
+    "peticiones": []
   },
   {
     "categoria": "Bajas médicas",
