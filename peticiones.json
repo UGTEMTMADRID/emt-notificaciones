@@ -15,47 +15,19 @@
     "categoria": "Bajas médicas",
     "icono": "cross.case.fill",
     "color": "EF4444",
-    "peticiones": [
-      {
-        "titulo": "Baja por enfermedad común",
-        "descripcion": "Comunica la baja antes de iniciar la jornada. El parte de baja debe entregarse en un plazo máximo de 3 días.",
-        "imagen_drive_id": ""
-      },
-      {
-        "titulo": "Accidente laboral",
-        "descripcion": "Comunícalo al responsable del servicio y acude a la mutua colaboradora. Rellena el parte de accidente antes de finalizar la jornada.",
-        "imagen_drive_id": ""
-      }
-    ]
+    "peticiones": []
   },
   {
     "categoria": "Excedencias",
     "icono": "clock.arrow.circlepath",
     "color": "8B5CF6",
-    "peticiones": [
-      {
-        "titulo": "Excedencia voluntaria",
-        "descripcion": "Con al menos 1 año de antigüedad. Período de 4 meses a 5 años. Solicitud con 30 días de antelación.",
-        "imagen_drive_id": ""
-      },
-      {
-        "titulo": "Excedencia por cuidado de hijos",
-        "descripcion": "Período no superior a 3 años. Durante el primer año se tiene derecho a la reserva del puesto de trabajo.",
-        "imagen_drive_id": ""
-      }
-    ]
+    "peticiones": []
   },
   {
     "categoria": "Formación",
     "icono": "graduationcap.fill",
     "color": "10B981",
-    "peticiones": [
-      {
-        "titulo": "Permiso de formación",
-        "descripcion": "20 horas anuales de formación vinculada a la actividad de la empresa. Acumulables hasta 5 años.",
-        "imagen_drive_id": ""
-      }
-    ]
+    "peticiones": []
   },
   {
     "categoria": "Otros",
@@ -63,14 +35,10 @@
     "color": "94A3B8",
     "peticiones": [
       {
-        "titulo": "Solicitud de certificados",
-        "descripcion": "Presenta escrito al Departamento de RRHH indicando el tipo de certificado y su finalidad. Plazo: 7 días hábiles.",
-        "imagen_drive_id": ""
-      },
-      {
-        "titulo": "Consulta de nómina",
-        "descripcion": "Si detectas alguna incidencia en tu nómina, dirígete al Departamento de Nóminas dentro de los 30 días siguientes a su recepción.",
-        "imagen_drive_id": ""
+        "titulo": "Prueba",
+        "descripcion": "Prueba practica",
+        "imagen_drive_id": "",
+        "imagen_url": "https://drive.google.com/uc?export=view&id=1SIkhDzPx094m33pFG4Cys7FxHW2bmnq9"
       }
     ]
   }
