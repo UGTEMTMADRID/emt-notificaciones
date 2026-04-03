@@ -9,7 +9,13 @@
     "categoria": "Permisos",
     "icono": "calendar.badge.checkmark",
     "color": "60A5FA",
-    "peticiones": []
+    "peticiones": [
+      {
+        "titulo": "Petición Permiso Retribuido",
+        "descripcion": "Petición permiso retribuido",
+        "imagen_url": "https://lh3.googleusercontent.com/d/1ECGk8C1RtfGyNrN_GywRgM5DYt4g44cU"
+      }
+    ]
   },
   {
     "categoria": "Bajas médicas",
