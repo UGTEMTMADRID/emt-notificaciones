@@ -3,7 +3,18 @@
     "categoria": "Vacaciones",
     "icono": "sun.max.fill",
     "color": "F59E0B",
-    "peticiones": []
+    "peticiones": [
+      {
+        "titulo": "Cambio de vacaciones entre compañeros",
+        "descripcion": "",
+        "imagen_url": "https://lh3.googleusercontent.com/d/1uVIpyPU4VjlhbHAPYoHZTf5GI5rNS9dx"
+      },
+      {
+        "titulo": "Solicitud de ajuste de periodo vacacional",
+        "descripcion": "",
+        "imagen_url": "https://lh3.googleusercontent.com/d/1j8SD1vRjRoa4nvoVYvAseUBiAMzdcFZa"
+      }
+    ]
   },
   {
     "categoria": "Permisos",
