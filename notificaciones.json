@@ -1,1 +1,10 @@
-[]
+[
+    {
+        "id": "aviso-001",
+        "titulo": "Notificicaciones",
+        "mensaje": "Notificacion",
+        "tipo": "info",
+        "activa": true,
+        "detalle": "Se estan probando y testeando las notificaciones"
+    }
+]
