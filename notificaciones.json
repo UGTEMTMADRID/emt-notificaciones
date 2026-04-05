@@ -1,13 +1,5 @@
 [
     {
-        "id": "aviso-004",
-        "titulo": "¡¡ BIENVENIDOS !!",
-        "mensaje": "¡¡Bienvenidos a bordo!!",
-        "tipo": "urgente",
-        "activa": true,
-        "detalle": "Bienvenidos a bordo, nuevos compañeros! Desde hoy, sois parte fundamental del motor de Madrid."
-    },
-    {
         "id": "aviso-003",
         "titulo": "Nueva Actualización",
         "mensaje": "DISPONIBLE NUEVA VERSION",
