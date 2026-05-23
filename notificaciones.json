@@ -52,7 +52,7 @@
     },
     {
         "id": "aviso-008",
-        "titulo": "TRASLADOS, SALIDA SRN Y DESTINOS NUEVO INGRESO",
+        "titulo": "Traslados de estación, salida del SRN y Destinos personal nuevo ingreso",
         "mensaje": "5.6.26 Traslados de estación, salidas del servicio de refuerzo nocturno y destinos del personal de nuevo ingreso",
         "tipo": "info",
         "activa": true,
