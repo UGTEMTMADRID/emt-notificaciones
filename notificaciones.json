@@ -61,7 +61,7 @@
     {
         "id": "aviso-009",
         "titulo": "¡¡ACTUALIZACION DISPONIBLE!!",
-        "mensaje": "Actualización necesaria",
+        "mensaje": "Actualización necesaria iOS y Android",
         "tipo": "info",
         "activa": true,
         "detalle": "UGT EMT MADRID | Actualización disponible:\nHemos renovado la app con mejoras importantes en el navegador GPS, la seguridad de acceso y la experiencia general. Aquí esta todo lo nuevo:\n\n\n✨ Navegador GPS mejorado: El navegador de líneas EMT estrena un velocímetro integrado directamente en pantalla.\n✨ Pantalla Movimiento: Al entrar por primera vez encontraras un tutorial interactivo.\n✨ Notificaciones: Las notificaciones de la campanilla ahora se muestran en orden cronológico. \n✨ Correcciones y estabilidad: Hemos resulto varios errores internos relacionados con el guardado de sesión y los permisos al registrar el numero de empleado. La app es ahora mas estable y rápida. \n\n🔥 Descarga la actualización y cuéntanos que te parece.\n🔥 Cualquier incidencia o sugerencia, contacta con nosotros a través del sindicato o correo\n📧 soporte@ugtemtmadrid.com",
